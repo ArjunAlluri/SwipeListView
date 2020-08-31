@@ -11,7 +11,7 @@
         android:label="swipeListView"
         android:icon="@mipmap/ic_launcher">
       <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyAcZPYwCuRCBCLG7lrRpH2UDDdUigRgdXE"/>
+               android:value="key"/>
       
         
         <activity
